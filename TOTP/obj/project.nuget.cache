@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "X92wYgkHW1iUFRl2dGdUcNY08RdsT6Qz/7fFEFqJsfb6/g5QRK+ZgdjAiwakmQ0z7F7UMSUqNX5m1Du0y6T9Kw==",
+  "success": true,
+  "projectFilePath": "E:\\TOTP\\TOTP\\TOTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fahad\\.nuget\\packages\\otp.net\\1.2.2\\otp.net.1.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

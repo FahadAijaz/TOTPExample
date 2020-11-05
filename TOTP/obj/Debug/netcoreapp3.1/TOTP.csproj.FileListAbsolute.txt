@@ -1,0 +1,15 @@
+E:\TOTP\TOTP\bin\Debug\netcoreapp3.1\TOTP.exe
+E:\TOTP\TOTP\obj\Debug\netcoreapp3.1\TOTP.csprojAssemblyReference.cache
+E:\TOTP\TOTP\obj\Debug\netcoreapp3.1\TOTP.AssemblyInfoInputs.cache
+E:\TOTP\TOTP\obj\Debug\netcoreapp3.1\TOTP.AssemblyInfo.cs
+E:\TOTP\TOTP\bin\Debug\netcoreapp3.1\TOTP.deps.json
+E:\TOTP\TOTP\bin\Debug\netcoreapp3.1\TOTP.runtimeconfig.json
+E:\TOTP\TOTP\bin\Debug\netcoreapp3.1\TOTP.runtimeconfig.dev.json
+E:\TOTP\TOTP\bin\Debug\netcoreapp3.1\TOTP.dll
+E:\TOTP\TOTP\bin\Debug\netcoreapp3.1\TOTP.pdb
+E:\TOTP\TOTP\bin\Debug\netcoreapp3.1\Otp.NET.dll
+E:\TOTP\TOTP\obj\Debug\netcoreapp3.1\TOTP.csproj.CoreCompileInputs.cache
+E:\TOTP\TOTP\obj\Debug\netcoreapp3.1\TOTP.csproj.CopyComplete
+E:\TOTP\TOTP\obj\Debug\netcoreapp3.1\TOTP.dll
+E:\TOTP\TOTP\obj\Debug\netcoreapp3.1\TOTP.pdb
+E:\TOTP\TOTP\obj\Debug\netcoreapp3.1\TOTP.genruntimeconfig.cache
